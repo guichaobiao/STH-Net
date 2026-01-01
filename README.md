@@ -1,5 +1,3 @@
-# Hair Triangle Detection for Trichoscopy Analysis
-
 > **Status**: This repository contains code for our paper currently under review.
 > 
 > **Full code and documentation will be released upon paper acceptance.**
