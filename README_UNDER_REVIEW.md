@@ -6,7 +6,7 @@
 
 ## 📄 Paper Information
 
-- **Title**: [Your Paper Title - will be disclosed upon publication]
+- **Title**: [Paper Title - will be disclosed upon publication]
 - **Authors**: [Anonymous for review]
 - **Venue**: Submitted to []
 - **arXiv**: [Link will be added if/when available]
@@ -52,7 +52,7 @@ We will release:
 ```python
 from model import HairTriangleDetector
 
-model = HairTriangleDetectorV3(
+model = HairTriangleDetector(
     backbone_name='...',
     use_fccm=True,    # Follicle-Centered Circular Context
     use_ote=True,     # Orientation-aware Triangle Encoding
