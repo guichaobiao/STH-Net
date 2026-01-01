@@ -85,7 +85,7 @@ cd
 
 ### Inference
 ```bash
-
+python demo_inference.py --image path/to/image.jpg --checkpoint path/to/model.pth
 ```
 
 ## 📅 Timeline
